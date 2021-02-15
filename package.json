@@ -1,7 +1,7 @@
 {
   "name": "iconify-packager",
-  "version": "1.0.2",
-  "description": "A custom pack of icon, used for our internal projects that integrates with iconify.design framework",
+  "version": "1.0.3",
+  "description": "A CLI util that build an icon pack that integrates with iconify.design framework from svg icons",
   "main": "bin/index.js",
   "license": "GPL-3.0",
   "keywords": [
