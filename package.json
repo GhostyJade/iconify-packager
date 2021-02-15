@@ -1,0 +1,16 @@
+{
+  "name": "iconify-packager",
+  "version": "1.0.0",
+  "description": "A custom pack of icon, used for our internal projects that integrates with iconify.design framework",
+  "main": "bin/index.js",
+  "license": "GPLv3",
+  "bin": {
+    "iconify-packager":"./bin/index.js"
+  },
+  "dependencies": {
+    "@iconify/tools": "^1.3.16",
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
