@@ -1,9 +1,19 @@
 {
   "name": "iconify-packager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom pack of icon, used for our internal projects that integrates with iconify.design framework",
   "main": "bin/index.js",
   "license": "GPL-3.0",
+  "keywords": [
+    "ReactJS",
+    "Iconify",
+    "icon pack",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GhostyJade/iconify-packager"
+  },
   "bin": {
     "iconify-packager": "./bin/index.js"
   },
